@@ -1,80 +1,69 @@
-class AlaaAlkawaldehProfile {
-  // 👋 About Me
-  String name = "Alaa Alkawaldeh";
-  String role = "AI Agents Engineer 🤖";
-  String focus = "Building AI-driven systems for companies and individuals ⚙️";
-  List<String> skills = [
-    "💡 AI Agents Design",
-    "🧠 Machine Learning & NLP",
-    "🐍 Python Development",
-    "⚙️ Automation & APIs",
-    "💬 Prompt Engineering"
-  ];
 
-  // 🏅 Leadership & Involvement
-  List<String> leadership = [
-    "👩‍💼 Chair – IEEE Women in Engineering (WIE), Al Al-Bayt University",
-    "💻 Vice Chair – IEEE Computer Society, Al Al-Bayt University",
-    "🚀 Coordinator – Center for Excellence & Innovation, Al Al-Bayt University",
-    "👩‍🏫 Trainer – Crown Prince Foundation"
-  ];
 
-  // 🔥 Highlights
-  List<String> highlights = [
-    "🤖 Specialized in AI Agents that automate workflows and enhance productivity",
-    "💡 Passionate about AI integration for real-world impact",
-    "🧠 Exploring the intersection of Intelligence, Automation, and Human Interaction",
-    "📚 Continuous learner in AI frameworks, tools, and architectures"
-  ];
+<h1 align="center">Hi, I'm Alaa Alkawaldeh 👋</h1>
+<h3 align="center">AI Agents Engineer 🤖 | Passionate about Building Intelligent Systems ⚙️</h3>
 
-  // 🧰 Tech Toolbox
-  List<String> techToolbox = [
-    "🐍 Python",
-    "🔮 TensorFlow",
-    "🔥 PyTorch",
-    "⚡ FastAPI",
-    "💻 GitHub",
-    "🖥️ VS Code",
-    "🐚 Bash",
-    "🔧 Git",
-    "🐧 Linux"
-  ];
+<p align="center">
+  <a href="https://www.linkedin.com/in/alaaahmad003?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/Alaa%20Alkawaldeh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-  // 📊 GitHub Stats
-  Map<String, String> githubStats = {
-    "Stats": "https://github-readme-stats.vercel.app/api?username=alaaalkawaldeh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10",
-    "Streak": "https://github-readme-streak-stats.herokuapp.com/?user=alaaalkawaldeh&theme=tokyonight&hide_border=true&border_radius=10"
-  };
+---
 
-  // ⚡️ Motto
-  String motto = "Empowering ideas through intelligent automation.";
+## 🚀 About Me
 
-  // 🌐 Connect
-  String connect = "🤝 Let's connect and build the future with AI";
+Hi! I'm **Alaa Alkawaldeh**, an AI Agents Engineer specialized in building AI-driven systems that automate workflows and enhance productivity.  
+I love exploring the intersection of **Intelligence, Automation, and Human Interaction**, and I continuously learn new frameworks, tools, and architectures in AI.  
 
-  // 📝 Method to display profile nicely (pseudo)
-  void displayProfile() {
-    print("Name: $name");
-    print("Role: $role");
-    print("Focus: $focus\n");
-    
-    print("Skills:");
-    skills.forEach((s) => print("- $s"));
-    
-    print("\nLeadership & Involvement:");
-    leadership.forEach((l) => print("- $l"));
-    
-    print("\nHighlights:");
-    highlights.forEach((h) => print("- $h"));
-    
-    print("\nTech Toolbox:");
-    techToolbox.forEach((t) => print("- $t"));
-    
-    print("\nGitHub Stats:");
-    githubStats.forEach((k,v) => print("$k: $v"));
-    
-    print("\nMotto: \"$motto\"");
-    print("\nConnect: $connect");
-  }
-}
+**Skills:**  
+- 💡 AI Agents Design  
+- 🧠 Machine Learning & NLP  
+- 🐍 Python Development  
+- ⚙️ Automation & APIs  
+- 💬 Prompt Engineering  
 
+---
+
+## 🏅 Leadership & Involvement
+
+- 👩‍💼 Chair – IEEE Women in Engineering (WIE), Al Al-Bayt University  
+- 💻 Vice Chair – IEEE Computer Society, Al Al-Bayt University  
+- 🚀 Coordinator – Center for Excellence & Innovation, Al Al-Bayt University  
+- 👩‍🏫 Trainer – Crown Prince Foundation  
+
+---
+
+## 🔥 Highlights
+
+- 🤖 Specialized in AI Agents that automate workflows and enhance productivity  
+- 💡 Passionate about AI integration for real-world impact  
+- 🧠 Exploring the intersection of Intelligence, Automation, and Human Interaction  
+- 📚 Continuous learner in AI frameworks, tools, and architectures  
+
+---
+
+## 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,github,vscode,bash,git,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alaaalkawaldeh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaaalkawaldeh&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</p>
+
+---
+
+## ⚡️ Motto
+
+> "Empowering ideas through intelligent automation."
+
+<p align="center">
+  <i>Let's connect and build the future with AI 🤝</i>
+</p>
